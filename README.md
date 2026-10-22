@@ -1,5 +1,5 @@
-01 Nom: DARDELET Pierrick
-01 github:
+01 Nom: DARDELET
+01 github: pierrick-dardelet
 02 Nom: Lanéry
 02 github: AymericLanery
 03 Nom:Szulman
